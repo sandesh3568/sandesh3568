@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Studying Computer And Science Engineering at National Insititue of Technology,Hamirpur.
 - 💼 &nbsp; Volunteer at National Level Hackathon, Electrothon 3.0.
 - 🌱 &nbsp; Learning more about Programming Languages & Artificial Intelligence.
-- ✍️ &nbsp;  Hobbies - Video Editing, Listening Songs.
+- ✍️ &nbsp;  Hobbies - Video Editing, Exploring new things.
 
  
 <br/>
