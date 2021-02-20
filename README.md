@@ -25,7 +25,7 @@
 <p>Feel free to contact anytime.</p>
 <br>
 <a rel="noreferrer"href="https://www.linkedin.com/in/sandesh-bansal-ab7559204/" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/sandesh.b2402/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 
