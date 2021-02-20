@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer And Science Engineering at National Insititute of Technology,Hamirpur.
 - 💼 &nbsp; Volunteer at SPEC-NITH.
-- 🌱 &nbsp; Learning more about Programming Languages & Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Machine Learning & other technical things.
 - ✍️ &nbsp; Hobbies - Video Editing, Exploring new things.
 
  
