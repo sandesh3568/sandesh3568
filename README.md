@@ -1,4 +1,4 @@
-
+<img src="icon.png" align="right" />
 <h2> Hey there!</h2> <h1>I'm Sandesh Bansal.</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
