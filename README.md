@@ -1,5 +1,5 @@
 <img src="icon.png" align="right" />
-## Hey there! 
+<h3> Hey there! </h3> 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 <h1>I'm Sandesh Bansal.</h1> 
 ![](https://visitor-badge.glitch.me/badge?page_id=sandesh3568.sandesh3568)
