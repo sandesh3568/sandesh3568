@@ -27,6 +27,12 @@
 <br/>
 <p ><a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=sandesh3568&theme=monokai" alt="sandesh3568" /></a></p>
 <br>
+
+### 🛠 &nbsp;Tech Stack
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+
 <h3>🤝🏻 &nbsp;Connect with Me </h3>
 <p>
 <p>Feel free to contact anytime.</p>
