@@ -39,7 +39,7 @@
 <br>
 <a rel="noreferrer"href="https://www.linkedin.com/in/sandesh-bansal-ab7559204/" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/sandesh.b2402/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:sandeshbansal24@gmail.com"><img alt="Mail" src="file:///C:/Users/sande/Downloads/email.png" />
+<a href="mailto:sandeshbansal24@gmail.com"><img alt="Mail" src="file:///C:/Users/sande/Downloads/envelope.png" />
  </a>
 </p>
 
