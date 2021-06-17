@@ -41,7 +41,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 <br>
-<p ><a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=sandesh3568&theme=monokai" alt="sandesh3568" /></a></p>
+## <h2 align=center> Trophy Cabinet </h2>
+<p align="centre"><a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=sandesh3568&theme=monokai" alt="sandesh3568" /></a></p>
 <br>
 
 <h3>🤝🏻 &nbsp;Connect with Me </h3>
