@@ -22,6 +22,7 @@
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh3568&theme=buefy&layout=compact" />
 </a>
+---
 
 <h2>🛠 Tech Stack</h2>
 
