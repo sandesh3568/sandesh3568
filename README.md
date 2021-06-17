@@ -23,8 +23,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh3568&theme=buefy&layout=compact" />
 </a>
 
----
-<br>
 <h2>🛠 Tech Stack</h2>
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
