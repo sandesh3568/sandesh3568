@@ -25,8 +25,7 @@
 <br>
 
 <br/>
-<p ><a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=sandesh3568&theme=monokai" alt="sandesh3568" /></a></p>
-<br>
+
 
 ## 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -40,6 +39,10 @@
 ###### Version Control
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+
+<br>
+<p ><a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=sandesh3568&theme=monokai" alt="sandesh3568" /></a></p>
+<br>
 
 <h3>🤝🏻 &nbsp;Connect with Me </h3>
 <p>
