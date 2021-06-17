@@ -44,7 +44,7 @@
 <img align=center src="https://github-profile-trophy.vercel.app/?username=sandesh3568&theme=monokai&row=2&column=3&margin-w=8&margin-h=8">
 </p>
 
-## <h3 align=centre> My current working stats </h3>
+## <h2 align=center> My Working STATS </h2>
 <p align=center>
 <img align=centre src="https://github-readme-streak-stats.herokuapp.com/?user=sandesh3568"/>
 </p>
