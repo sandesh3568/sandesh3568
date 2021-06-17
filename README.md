@@ -45,8 +45,9 @@
 </p>
 
 ## <h3 align=centre> My current working stats </h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandesh3568"/>
----
+<p align=center>
+<img align=centre src="https://github-readme-streak-stats.herokuapp.com/?user=sandesh3568"/>
+</p>
 
 <h3>🤝🏻 &nbsp;Connect with Me </h3>
 <p>
