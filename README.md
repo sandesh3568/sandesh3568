@@ -38,18 +38,14 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-
-
-## <h2 align=center> Trophy Cabinet </h2>
-<p align=centre><a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=sandesh3568&theme=monokai" alt="sandesh3568" /></a></p>
-<br>
-
 ## <h2 align=center> Trophy Cabinet </h2>
 
 <p align=center>
 <img align=center src="https://github-profile-trophy.vercel.app/?username=sandesh3568&theme=monokai&row=2&column=3&margin-w=8&margin-h=8">
 </p>
 
+## <h3 align=centre> My current working stats </h3>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandesh3568"/>
 ---
 
 <h3>🤝🏻 &nbsp;Connect with Me </h3>
