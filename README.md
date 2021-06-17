@@ -23,8 +23,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh3568&theme=buefy&layout=compact" />
 </a>
 <br>
-
-<br/>
 ---
 
 ## 🛠 &nbsp;Tech Stack
@@ -39,7 +37,9 @@
 ###### Version Control
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+
 ---
+
 <br>
 ## <h2 align=center> Trophy Cabinet </h2>
 <p align=centre><a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=sandesh3568&theme=monokai" alt="sandesh3568" /></a></p>
