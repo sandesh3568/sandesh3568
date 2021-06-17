@@ -44,6 +44,12 @@
 <p align=centre><a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=sandesh3568&theme=monokai" alt="sandesh3568" /></a></p>
 <br>
 
+## <h2 align=center> Trophy Cabinet </h2>
+
+<p align=center>
+<img align=center src="https://github-profile-trophy.vercel.app/?username=sandesh3568&theme=monokai&row=2&column=3&margin-w=8&margin-h=8">
+</p>
+
 ---
 
 <h3>🤝🏻 &nbsp;Connect with Me </h3>
