@@ -40,7 +40,7 @@
 <a rel="noreferrer"href="https://www.linkedin.com/in/sandesh-bansal-ab7559204/" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/sandesh.b2402/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-<a href="https://sandesh3568.github.io/sandesh3568_resume/"> <img src ="https://img.shields.io/badge/Resume-rgb(0, 108, 255, 1).svg?&style=for-the-badge&logo=dropbox&logoColor=white%22"> </a>
+<a href="https://sandesh3568.github.io/sandesh3568_resume/" target="_blank"> <img src ="https://img.shields.io/badge/Resume-rgb(0, 108, 255, 1).svg?&style=for-the-badge&logo=dropbox&logoColor=white%22"> </a>
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:sandeshbansal24@gmail.com)
 
  </a>
