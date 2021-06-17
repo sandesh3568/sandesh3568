@@ -25,7 +25,7 @@
 <br>
 
 <br/>
-
+---
 
 ## 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -39,20 +39,22 @@
 ###### Version Control
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-
+---
 <br>
 ## <h2 align=center> Trophy Cabinet </h2>
-<p align="centre"><a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=sandesh3568&theme=monokai" alt="sandesh3568" /></a></p>
+<p align=centre><a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=sandesh3568&theme=monokai" alt="sandesh3568" /></a></p>
 <br>
+
+---
 
 <h3>🤝🏻 &nbsp;Connect with Me </h3>
 <p>
 <p>Feel free to contact anytime.</p>
 <br>
-<a rel="noreferrer"href="https://www.linkedin.com/in/sandesh-bansal-853a66202/" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a rel="noreferrer"href="https://www.linkedin.com/in/sandesh-bansal-853a66202/" target=_blank ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/sandesh.b2402/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-<a href="https://sandesh3568.github.io/sandesh3568_resume/" target="_blank"> <img src ="https://img.shields.io/badge/Resume-rgb(0, 108, 255, 1).svg?&style=for-the-badge&logo=dropbox&logoColor=white%22"> </a>
+<a href="https://sandesh3568.github.io/sandesh3568_resume/" target=_blank> <img src ="https://img.shields.io/badge/Resume-rgb(0, 108, 255, 1).svg?&style=for-the-badge&logo=dropbox&logoColor=white%22"> </a>
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:sandeshbansal24@gmail.com)
 
  </a>
